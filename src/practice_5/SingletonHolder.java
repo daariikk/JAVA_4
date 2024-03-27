@@ -1,5 +1,6 @@
 package practice_5;
 
+//статический класс для ленивой инициализации
 public class SingletonHolder {
     private SingletonHolder() {}
 

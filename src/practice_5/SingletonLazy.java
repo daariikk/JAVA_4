@@ -1,5 +1,6 @@
 package practice_5;
 
+//ленивая инициализация
 public class SingletonLazy {
     private static SingletonLazy instance;
 
